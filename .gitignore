@@ -1,0 +1,5 @@
+TicTacToe
+dist/*
+*~
+*.bak
+*.backup
