@@ -3,3 +3,5 @@ dist/*
 *~
 *.bak
 *.backup
+.cabal-sandbox/
+cabal.sandbox.config
